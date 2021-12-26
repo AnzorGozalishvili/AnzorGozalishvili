@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<p align="left"> <a href="https://pytorch.org" target="_blank"> <img src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.svg" alt="PyTorch" width="40" height="40"/></a>
+<a href="https://huggingface.co/" target="_blank"> <img src="https://raw.githubusercontent.com/huggingface/awesome-huggingface/main/logo.svg" alt="huggingface" width="40" height="40"/></a>
+<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnzorGozalishvili&show_icons=true&locale=en&theme=tokyonight" alt="AnzorGozalishvili" /></p>
